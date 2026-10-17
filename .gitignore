@@ -219,3 +219,6 @@ __marimo__/
 
 #learning
 learning/
+
+data/
+.vscode/
